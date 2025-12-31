@@ -1,0 +1,14 @@
+# React / Frontend
+node_modules/
+dist/
+.vite/
+
+# Django / Backend
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+
+# IDE / OS files
+.DS_Store
+*.log
